@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # monastery_360
 
 A new Flutter project.
@@ -14,3 +15,7 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# Monastery-360
+An Application made for the monasteries of Sikkim. It has all the essential features for a traveller. We are making this project for SIH 2025
+>>>>>>> 1b946aa6760b1faeb51ec232e920015c061ba7cc
